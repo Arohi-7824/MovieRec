@@ -1,0 +1,12 @@
+# Data files
+*.csv
+
+# Pickle files (optional, but recommended)
+movies.pkl
+similarity.pkl
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
